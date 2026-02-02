@@ -47,6 +47,27 @@ The resulting time-varying Laplacians are used in **first-order** and **second-o
 
 ---
 
+## 📚 Citation
+
+If you use the content of this project in your research, please cite:
+
+> M. Hasanzadeh and A. Kargarian, "Dynamic Quantum Optimal Communication Topology Design for Consensus Control in Linear Multi-Agent Systems," 
+
+
+---
+
+## 👤 Author
+
+**Milad Hasanzadeh**  
+Department of Electrical and Computer Engineering  
+Louisiana State University  
+📧 e.mhasanzadeh1377@yahoo.com  
+
+📅 **Release Date:** Nov 2025  
+📄 **License:** Academic and Research Use Only  
+
+---
+
 ## 📁 Code Structure
 
 The main script implements the complete **closed-loop online procedure**:
@@ -68,3 +89,5 @@ By default, the script calls:
 ```python
 if __name__ == "__main__":
     online_topology_control()
+
+
